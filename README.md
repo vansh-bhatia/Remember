@@ -5,6 +5,7 @@ My first app!
 3. To add task, enter it in in the PlainText field and press Add Task! button.
 4. To delete task, enter corresponding task number of task to be removed and it will be removed from the list.
 5. All tasks are stored in an ArrayList<String> and are visible in the center of the screen.
+6. All strings stored in res/
 
 
 I spent days building this as it's my first app!
