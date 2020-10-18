@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Remember</string>
+    <string name="ex_1_or_8">Ex : 1 or 8</string>
+    <string name="sample">Sample</string>
+    <string name="ex_buy_eggs">Ex : Buy Eggs</string>
+    <string name="add_task">Add Task!</string>
+    <string name="delete">Delete</string>
+    <string name="enter_task_number_you_finished">(Enter task number you finished)</string>
+    <string name="below_is_a_list_of_your_tasks_15_max_please">BELOW IS A LIST OF YOUR TASKS (15 Max Please)!</string>
+    <string name="about">About</string>
+    <string name="how_to_use">How to Use!</string>
+</resources>
